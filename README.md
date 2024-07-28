@@ -1,5 +1,4 @@
 touch index.html
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,4 +19,3 @@ touch index.html
     <script src="script.js"></script>
 </body>
 </html>
-
